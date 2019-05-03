@@ -1,0 +1,3 @@
+rootProject.name = 'rocketuber'
+
+include ':app'
