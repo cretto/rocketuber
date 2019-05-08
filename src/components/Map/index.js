@@ -65,7 +65,7 @@ export default class Map extends Component {
   };
 
   handleBack = () => {
-    this.setState({ destination: null});
+    this.setState({ destination: null });
   };
 
   render() {
